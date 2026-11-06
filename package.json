@@ -1,0 +1,18 @@
+{
+  "name": "baytouka-lebanese-table",
+  "version": "2.0.0",
+  "private": true,
+  "description": "BAYTOUKA (بيتك) — المائدة اللبنانية | معمارية التجارة الإلكترونية لأواني المطبخ والضيافة بالجملة والمفرق في لبنان",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build:data": "node scripts/build-products-data.mjs",
+    "build": "node scripts/build-bundle.mjs",
+    "preview": "vite preview",
+    "convert-webp": "node scripts/convert-webp.mjs"
+  },
+  "devDependencies": {
+    "vite": "5.4.11"
+  }
+}
+
