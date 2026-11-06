@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#141611"/>
+      <stop offset="55%" stop-color="#221A12"/>
+      <stop offset="100%" stop-color="#382214"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect x="36" y="36" width="1128" height="558" rx="28" fill="none" stroke="#B28646" stroke-width="2" stroke-opacity="0.55"/>
+  <path d="M120 490 V220 A140 140 0 0 1 400 220 V490 Z" fill="#1E1710" stroke="#F6C96B" stroke-width="2.5"/>
+  <g transform="translate(140, 175) scale(2.0)">
+    <ellipse cx="60" cy="84" rx="34" ry="8" fill="rgba(229,155,35,0.25)" />
+    <rect x="30" y="50" width="60" height="32" rx="10" fill="rgba(229,155,35,0.25)" stroke="#F6C96B" stroke-width="2.2"/>
+    <path d="M26 52 H94" stroke="#F6C96B" stroke-width="2.4" stroke-linecap="round"/>
+    <path d="M34 50 C34 38, 86 38, 86 50" fill="none" stroke="#F6C96B" stroke-width="2"/>
+    <circle cx="60" cy="37" r="4.5" fill="rgba(229,155,35,0.25)" stroke="#F6C96B" stroke-width="2"/>
+    <path d="M20 58 H30 M90 58 H100" stroke="#F6C96B" stroke-width="2.6" stroke-linecap="round"/>
+  </g>
+  <text x="1080" y="165" text-anchor="end" fill="#F6C96B" font-family="sans-serif" font-size="28" font-weight="700">BAYTOUKA • بيتك — المائدة اللبنانية</text>
+  <text x="1080" y="265" text-anchor="end" fill="#F7F3EB" font-family="sans-serif" font-size="52" font-weight="800">أواني المطبخ والضيافة بالجملة والمفرق</text>
+  <text x="1080" y="335" text-anchor="end" fill="#D8CFC0" font-family="sans-serif" font-size="28">أطقم طناجر • سيراميك • حافظات بهارات • باقات تجهيز العرائس</text>
+  <rect x="640" y="400" width="440" height="74" rx="37" fill="#B64624"/>
+  <text x="860" y="447" text-anchor="middle" fill="#FFFFFF" font-family="sans-serif" font-size="30" font-weight="800">توصيل لكافة المناطق اللبنانية</text>
+  <text x="1080" y="535" text-anchor="end" fill="#B28646" font-family="monospace" font-size="22">Tripoli, Lebanon | WhatsApp: +961 71 840 915</text>
+</svg>
